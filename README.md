@@ -2,8 +2,8 @@
 此仓库存储[《群友伪娘原理》](https://github.com/sb-child/crossdressing-principle)的相关资料
 
 托管网站
-+ https://github.com/sb-child/unv-docs
-+ https://gitee.com/sb-child/unv-docs
++ (主托管站) https://github.com/sb-child/unv-docs
++ (备用) https://gitee.com/sb-child/unv-docs
 + (游客无权访问) https://sbc-io.xyz:81/gl/root-mirrors/unv-docs
 
 ## 萝莉小说
