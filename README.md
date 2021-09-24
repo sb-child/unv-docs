@@ -19,3 +19,7 @@
 
 ## 跨性别相关
 + [传送门](./跨性别相关/README.md)
+
+# 许可证(license)
++ 许可证和许可范围见 [license](./LICENSE)
++ 详见 https://github.com/RimoChan/conception-license
