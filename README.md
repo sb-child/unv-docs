@@ -2,6 +2,8 @@
 
 此仓库存储用来编写[《群友伪娘原理》](https://github.com/sb-child/crossdressing-principle)的相关资料, 和一些笔记
 
+此仓库的内容非常正经, 全是干货, 不准乱report (已经被封了一个帐号了)
+
 ## 托管网站
 
 + (主托管站) https://github.com/sb-child/unv-docs
