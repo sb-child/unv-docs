@@ -9,7 +9,7 @@
 ## 托管网站
 
 + (主托管站) https://github.com/sb-child/unv-docs
-+ (备用, 随时可能被封) https://gitee.com/ban_yun_gong/unv-docs
++ ~~(此站出问题了) https://gitee.com/ban_yun_gong/unv-docs~~
 + (游客无权访问) https://sbc-io.xyz:81/gl/root-mirrors/unv-docs
 
 ## 来源
